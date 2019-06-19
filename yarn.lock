@@ -9679,10 +9679,12 @@ react-native-3d-swiper@^2.0.7:
   resolved "https://registry.yarnpkg.com/react-native-3d-swiper/-/react-native-3d-swiper-2.0.7.tgz#68fc4fd9b782afb3e38d1f4c9c4bdc825a3dc249"
   integrity sha512-TgXpPLI3O7zojtBo5otQSMSY2zd31KfM5TG6NXkQlzCy8WLT0AW2KjpxIKE6VK70ohKZg4oquwrqZ8gM10GgeQ==
 
-react-native-admob@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/react-native-admob/-/react-native-admob-1.3.2.tgz#bcf9841158b1686361b9328ce7c5b5b0a7791c8a"
-  integrity sha1-vPmEEVixaGNhuTKM58W1sKd5HIo=
+react-native-admob@^2.0.0-beta.5:
+  version "2.0.0-beta.5"
+  resolved "https://registry.yarnpkg.com/react-native-admob/-/react-native-admob-2.0.0-beta.5.tgz#f83fd6144c5dd3e708e937793f41c0c50db86682"
+  integrity sha512-nESuBHqCgXZmR7yfwHB0nmsZUgjyWEkR4gsPx7hB2vB+pba+2MHUWD0nk4K85zsHxgJ9yNcJNGoQbqY8A1T9ow==
+  dependencies:
+    prop-types "^15.5.10"
 
 react-native-animatable@^1.2.3, react-native-animatable@^1.2.4:
   version "1.3.2"
