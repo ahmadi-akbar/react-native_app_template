@@ -16,11 +16,11 @@
 - for iOS
   - run `react-native run-ios`
 - for Android
-  _ Run Genymotion
-  _ run `react-native run-android`
+  - Run Genymotion or android emulator
+  - run `react-native run-android`
 
 <p align="middle">
-    <img src="https://github.com/ahmadi-akbar/react-native_app_template/blob/master/assets/app%20ScreenShot%2001.png?raw=true">
-    <img src="https://github.com/ahmadi-akbar/react-native_app_template/blob/master/assets/app%20ScreenShot%2002.png?raw=true">
+    <img src="./assets/ScreenShots/ScreenShot_01.png">
+    <img src="./assets/ScreenShots/ScreenShot_02.png">
 </p>
 
